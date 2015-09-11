@@ -4,3 +4,9 @@ a.one{
 a.one:hover{
 	background-color: #E61725;
 }
+img.pic{
+	opacity: 1;
+}
+img.pic:hover{
+	opacity: 9;
+}
