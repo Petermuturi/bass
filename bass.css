@@ -10,3 +10,6 @@ img.pic{
 img.pic:hover{
 	opacity: 9;
 }
+a.ft:hover{
+	text-decoration: underline;
+}
