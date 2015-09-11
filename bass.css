@@ -1,3 +1,6 @@
 a.one{
 	background-color: #A52D36;
-	}
+}
+a.one:hover{
+	background-color: #E61725;
+}
